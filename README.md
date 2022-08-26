@@ -1,0 +1,2 @@
+# VeriYapilariveAlgoritmalar
+VeriYapilariveAlgoritmalar
